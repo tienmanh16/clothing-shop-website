@@ -22,7 +22,7 @@
 **1. Website for user**
 
 <div align="center">
-  <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/Home.png" alt="User Login" width="48%"></img> &nbsp;&nbsp; <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/Trend.png" alt="User Home" width="48%"></img> &nbsp;&nbsp; <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/Login.png" alt="User Top" width="48%"></img> &nbsp;&nbsp; <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/List.png" alt="User Top Chart" width="48%"></img>
+  <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/Home.png" alt="User Login" width="48%"></img> &nbsp;&nbsp; <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/Trend.png" alt="User Home" width="48%"></img> &nbsp;&nbsp; <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/User_login.png" alt="User Top" width="48%"></img> &nbsp;&nbsp; <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/List.png" alt="User Top Chart" width="48%"></img>
 </div>
 
 **2. Website for admin**
