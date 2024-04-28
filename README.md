@@ -1,8 +1,7 @@
-# VIRAL MUSIC WEB - PRN231
+# CLOTHING SHOP WEDSITE | PRJ302 COURSE - PROJECT WORK
 
-:wave: Welcome to our Building Cross-Platform Back-End Application With .NET (PRN231) Project :wave:
+:wave: Welcome to the project of building a cross-platform sales application :wave:
 
-:point_right: [Live Demo Here](https://youtu.be/55RuJXYfV-M?si=5co0a_88qqrX6dg8) :point_left:
 
 ## Table of Contents
 - [Description](#description)
@@ -15,8 +14,8 @@
 - [License & Copyright](#license--copyright)
 
 ## Description
-- The website synthesizes the music that is going viral.
-- This project started from 03-01-2023 to 31-03-2023
+- The site features men's, women's and children's items. Users can view, purchase, and pay.
+- This project started from Jan.2024 to Mar.2024
 
 ## Preview Screenshot
 
@@ -35,28 +34,20 @@
 ## Technology
 **1. Frontend**
   - HTML, CSS, JavaScript
-  - React JS
 
 **2. Backend**
-  - C# Language
-  - .NET Core - Entity Framework
+  -JSP/Servlet
 
 **3. Database**
   - Microsoft SQL Server - a relational model database server produced by Microsoft
 
-**4. Other Technologies**
-- RESTful API
-- Firebase for Music Storage
-- JSON Web Tokens for authentication
-
-**5. Tool**
+**4. Tool**
   - Visual Studio 2022
-  - Visual Studio Code 
-  - Figma
-  - Swagger API Documentation
-  - Postman
+  - Apache NetBeans
   - Draw.io for ERD Diagram
-  - Microsoft SQL Server Management Studio 18
+  - Visual Paradigm 
+  - Microsoft SQL Server Management Studio 18 
+  
 
 ## Functional requirements
 
@@ -72,31 +63,13 @@
 - [ ] Login - logout. 
 - [ ] Add - delete - edit information of music pieces.
 
-## Useful Resources
-
-#| #| Name | Description
--| -| ---- | -----------
-1| -| Main Project Folder | Main source code
--| 1.1| [Front-end](https://github.com/HAPPY-3-FRIENDS/viral-music-web) | Front-end source code
--| 1.2| [Back-end](https://github.com/HAPPY-3-FRIENDS/viral-music-back-end) | Back-end source code
-2| -| Database | Database Information
--| 2.1| [Database Script](https://github.com/HAPPY-3-FRIENDS/viral-music-back-end/blob/main/database/ViralMusicDBScript.sql) | SQL Scipt
--| 2.2| [Database Entity Relationship Diagram]() | Database ERD
-3| -| [UI Design](https://www.figma.com/proto/HDnvo2txSBeXvzgSTHeUyj/PRN231---Viral-Music-Web?node-id=12-263&scaling=scale-down&page-id=0%3A1&starting-point-node-id=17%3A293&show-proto-sidebar=1) | UI design on Figma
--| 3.1| [UI Design Screenshot](https://github.com/HAPPY-3-FRIENDS/viral-music-back-end/tree/main/UI) | UI Design Screenshot
-4| -| [Document Folder](https://github.com/HAPPY-3-FRIENDS/viral-music-back-end/tree/main/Requirement) | Document folder includes Requirement and Business Rules
-5| -| [Live Demo](https://youtu.be/55RuJXYfV-M?si=5co0a_88qqrX6dg8) | Live Demo
 
 ## Contributors
 **1. Mentors:**
-- Lecturer - Mentor: Lam Huu Khanh Phuong
+- Lecturer - Mentor: Phan Dang Cau
 
 **2. Members:**
-- [Nguyen Dao Duc Quan](https://github.com/dq-qiji) - SE151008 - **Leader | Business Analyst | Back-end Developer**
-- [Huynh Le Thuy Tien](https://github.com/tienhuynh-tn) - SE151104 - **Back-end Developer | Database Designer**
-- [Nguyen Lam Thuy Phuong](https://github.com/nguyenlamthuyphuong25) - 	SE150999 - **UI Designer | Front-end Developer**
+- [Nguyen Manh Tien](https://github.com/tienmanh16) - HE172825 - **Full-Stack Developer**
 
-## References
 
-## License & Copyright
-&copy; 2023 Happy-3-Friends Licensed under the [GPL-3.0 LICENSE](https://github.com/HAPPY-3-FRIENDS/viral-music-back-end/blob/main/LICENSE).
+&copy;Copyright by tienmanh16.
