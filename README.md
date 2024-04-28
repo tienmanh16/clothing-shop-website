@@ -10,8 +10,7 @@
 - [Functional requirements](#functional-requirements)
 - [Useful Resources](#useful-resources)
 - [Contributors](#contributors)
-- [References](#references)
-- [License & Copyright](#license--copyright)
+
 
 ## Description
 - The site features men's, women's and children's items. Users can view, purchase, and pay.
@@ -28,7 +27,7 @@
 **2. Website for admin**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/admin.png" alt="User Login" width="98%"></img>
+  <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/Admin.png" alt="User Login" width="98%"></img>
 </div>
   
 ## Technology
