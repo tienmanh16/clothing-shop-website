@@ -36,7 +36,7 @@
 
 **2. Backend**
   - JSP/Servlet
-  
+
 **3. Database**
   - Microsoft SQL Server - a relational model database server produced by Microsoft
 
@@ -59,7 +59,7 @@
 - [ ] Purchase and payment.
 
 **2. Admin:**
-- [ ] Log in - log out. 
+- [ ] Log in, log out. 
 - [ ] Manage customers, orders, and products. 
 - [ ] Revenue management.
 - [ ] Add - delete - edit information of products.
