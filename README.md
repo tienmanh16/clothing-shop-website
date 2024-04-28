@@ -50,16 +50,18 @@
 ## Functional requirements
 
 **1. User:**
-- [ ] Listen to viral music.
-- [ ] Select shuffle playlist by tags.
-- [ ] Search for viral music.
-- [ ] Viral Music Chart.
-- [ ] Register - login - logout.
-- [ ] List of favorite music listened to.
+- [ ] Sign up, log in, log out.
+- [ ] Edit personal information.
+- [ ] View products.
+- [ ] Add products to cart.
+- [ ] Cart modifications.
+- [ ] Purchase and payment.
 
 **2. Admin:**
-- [ ] Login - logout. 
-- [ ] Add - delete - edit information of music pieces.
+- [ ] Log in - log out. 
+- [ ] Manage customers, orders, and products. 
+- [ ] Revenue management.
+- [ ] Add - delete - edit information of products.
 
 
 ## Contributors
