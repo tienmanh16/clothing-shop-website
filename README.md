@@ -4,6 +4,7 @@
 
 
 ## Table of Contents
+
 - [Description](#description)
 - [Preview Screenshot](#preview-screenshot)
 - [Technology](#technology)
@@ -13,8 +14,10 @@
 
 
 ## Description
+
 - The site features men's, women's and children's items. Users can view, purchase, and pay.
 - This project started from Jan.2024 to Mar.2024
+
 
 ## Preview Screenshot
 
@@ -30,7 +33,9 @@
   <img src="https://github.com/tienmanh16/clothing-shop-wedsite/blob/main/UI/Admin.png" alt="User Login" width="98%"></img>
 </div>
   
+
 ## Technology
+
 **1. Frontend**
   - HTML, CSS, JavaScript
 
@@ -66,6 +71,7 @@
 
 
 ## Contributors
+
 **1. Mentors:**
 - Lecturer - Mentor: Phan Dang Cau
 
