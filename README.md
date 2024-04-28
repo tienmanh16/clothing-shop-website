@@ -22,7 +22,7 @@
 **1. Website for user**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/user-login.png" alt="User Login" width="48%"></img> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/user-home.png" alt="User Home" width="48%"></img> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/user-top.png" alt="User Top" width="48%"></img> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/user-top-chart.png" alt="User Top Chart" width="48%"></img>
+  <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/clothing-shop-wedsite/main/UI/Home.png" alt="User Login" width="48%"></img> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/user-home.png" alt="User Home" width="48%"></img> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/user-top.png" alt="User Top" width="48%"></img> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/HAPPY-3-FRIENDS/viral-music-back-end/main/UI/screenshot/user-top-chart.png" alt="User Top Chart" width="48%"></img>
 </div>
 
 **2. Website for admin**
