@@ -1,4 +1,4 @@
-# CLOTHING SHOP WEDSITE | PRJ302 COURSE - PROJECT WORK
+# CLOTHING SHOP WEBSITE | PRJ302 COURSE - PROJECT WORK
 
 :wave: Welcome to the project of building a cross-platform sales application :wave:
 
